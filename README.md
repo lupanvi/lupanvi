@@ -6,3 +6,8 @@
 * Open source project: [Laragram](https://github.com/lupanvi/laragram)
 * Always learning new technologies on Udemy, Laracasts, tutorials etc.
 * Interests: Technology, astronomy, anime, rock
+
+### Find me around the web
+
+* [Twitter](https://twitter.com/lupanvi)
+* [Linkedin](https://www.linkedin.com/in/luis-p-5b534946)
