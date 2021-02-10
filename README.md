@@ -11,3 +11,4 @@
 
 * [Twitter](https://twitter.com/lupanvi)
 * [Linkedin](https://www.linkedin.com/in/luis-p-5b534946)
+* [Personal website](http://www.luispantadeveloper.com)
