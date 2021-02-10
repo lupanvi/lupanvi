@@ -7,12 +7,13 @@
 
 ### Frameworks/ Libraries
 
+* Laravel
 * Vuejs
 * Nuxt 
 * React
 * Vuex
 * Redux
-* Boostrap
+* Bootstrap
 * Tailwind
 * Jquery
 
