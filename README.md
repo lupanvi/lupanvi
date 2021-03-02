@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Luis 
 
-* I'm a full stack web developer for more than 10 years.
+* I'm a full stack web developer with more than 10 years of experience.
 * My skills are Laravel, Vuejs, React, Bootstrap. You can read more about my full experience [here](https://github.com/lupanvi/lupanvi/blob/master/EXPERIENCE.md)
 * I speak spanish and english.
 * Open source project: [Laragram](https://github.com/lupanvi/laragram)
