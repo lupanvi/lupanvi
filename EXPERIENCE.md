@@ -9,13 +9,14 @@
 
 * Laravel
 * Vuejs
-* Nuxt 
-* React
 * Vuex
+* Nuxt 
+* ReactJs
 * Redux
-* Bootstrap
 * Tailwind
+* Bootstrap
 * Jquery
+* Wordpress
 
 ### Techniques
 
@@ -26,7 +27,15 @@
 * Mysql
 * Sqlite
 * Redis
+* MongoDB
 
 ### Services
 
-* AWS
+* AWS Elastic Beanstalk
+* AWS EC2
+
+### Repositories
+
+* Github
+* Gitlab
+* CodeCommit
