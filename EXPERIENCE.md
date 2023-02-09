@@ -17,6 +17,9 @@
 * Bootstrap
 * Jquery
 * Wordpress
+* NodeJs
+* React-Query
+* Vue-Query
 
 ### Techniques
 
@@ -33,6 +36,9 @@
 
 * AWS Elastic Beanstalk
 * AWS EC2
+* AWS Lambda
+* AWS RDS
+* and more
 
 ### Repositories
 
