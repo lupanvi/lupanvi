@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Luis 
 
-* I'm a full stack web developer with more than 10 years of experience.
+* I'm a full stack web developer with more than 11 years of experience.
 * My skills are Laravel, Vuejs, React, Tailwind, Mysql. You can read more about my full experience [here](https://github.com/lupanvi/lupanvi/blob/master/EXPERIENCE.md)
 * I speak spanish and english.
 * Open source projects: [Laragram](https://github.com/lupanvi/laragram), [Twitter Clone](https://github.com/lupanvi/react-twitter-frontend)
