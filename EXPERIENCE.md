@@ -47,7 +47,7 @@
 * AWS RDS
 * AWS SQS
 * Laravel Vapor
-* Laravel forge
+* Laravel Forge
 * Digital Ocean
 
 ### Repositories
