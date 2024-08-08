@@ -2,8 +2,6 @@
 
 * PHP
 * Javascript
-* HTML
-* CSS
 
 ### Frameworks/ Libraries
 
@@ -13,17 +11,25 @@
 * Nuxt 
 * ReactJs
 * Redux
+* NodeJS
+* Pusher
+* RabbitMQ
 * Tailwind
 * Bootstrap
 * Jquery
 * Wordpress
-* NodeJs
 * React-Query
 * Vue-Query
 
-### Techniques
+### Techniques/Principles
 
-* Responsive design (mobile first)
+* Microservices
+* Websockets
+* REST
+* SOAP
+* TDD
+* SOLID
+* Responsive design (mobile first)  
 
 ### Storage
 
@@ -31,6 +37,7 @@
 * Sqlite
 * Redis
 * MongoDB
+* PostgreSQL
 
 ### Services
 
@@ -38,7 +45,10 @@
 * AWS EC2
 * AWS Lambda
 * AWS RDS
-* and more
+* AWS SQS
+* Laravel Vapor
+* Laravel forge
+* Digital Ocean
 
 ### Repositories
 
