@@ -3,7 +3,7 @@
 * PHP
 * Javascript
 
-### Frameworks/ Libraries
+### Frameworks/ Libraries / Technologies
 
 * Laravel
 * Vuejs
@@ -14,6 +14,7 @@
 * NodeJS
 * Pusher
 * RabbitMQ
+* Docker
 * Tailwind
 * Bootstrap
 * Jquery
